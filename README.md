@@ -1,4 +1,5 @@
 # 🎲 Dicee Game
+https://diana-lomei.github.io/Diese-game/
 
 This is a simple browser-based dice game built with HTML, CSS, and JavaScript. The project simulates a dice roll for two players and determines the winner based on random values.
 
